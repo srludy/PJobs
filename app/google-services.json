@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186316848928",
+    "firebase_url": "https://pjobs-d5a4b.firebaseio.com",
+    "project_id": "pjobs-d5a4b",
+    "storage_bucket": "pjobs-d5a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186316848928:android:bbd862547b6bd6fa",
+        "android_client_info": {
+          "package_name": "com.example.jose.pjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186316848928-933qcule3td8a4gh4asc6glj3cm8soqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jose.pjobs",
+            "certificate_hash": "c2afe4bff4b35d4bbee291a47bc7016893c2071d"
+          }
+        },
+        {
+          "client_id": "186316848928-k9c75p8rbgl75jjhiu2ja4d5v8g64g77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61xrnARs8nLXUj6YiY_S1E-gmiW97V2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186316848928-k9c75p8rbgl75jjhiu2ja4d5v8g64g77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
